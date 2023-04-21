@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shyam Dadhaniya</h1>
 <h3 align="center">Creative frontend developer with a strong understanding of user-centered design.</h3>
 
-![lautaro-andreani-xkBaqlcqeb4-unsplash (1)](https://user-images.githubusercontent.com/97106864/233474009-e21894cc-7a60-4494-a82c-e5680741dbbf.jpg)
+![git1](https://user-images.githubusercontent.com/97106864/233577577-396a86e1-9d15-4c6f-8851-f8f45dfdc777.jpg)
+
 
 
 
@@ -61,3 +62,5 @@
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 </a>
 </p>
+  
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
